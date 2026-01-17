@@ -1,0 +1,14 @@
+** Drc report for DNT.kicad_pcb **
+** Created on 2026-01-09T22:26:40+0530 **
+
+** Found 0 DRC violations **
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; 
+    @(114.3124 mm, 88.4750 mm): Pad 2 [/+5V] of U2 on B.Cu
+    @(120.6124 mm, 88.4750 mm): Pad 4 [/+5V] of U2 on B.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **

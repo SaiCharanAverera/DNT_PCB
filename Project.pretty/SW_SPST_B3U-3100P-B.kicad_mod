@@ -1,0 +1,132 @@
+(footprint "SW_SPST_B3U-3100P-B"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, with Boss")
+	(tags "Tactile Switch")
+	(property "Reference" "SW1"
+		(at 0 -3.899999 180)
+		(layer "F.SilkS")
+		(uuid "d60b16ec-c061-4d86-99fd-e1febf9771c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_Push_SPDT"
+		(at -0.03 3.38 180)
+		(layer "F.Fab")
+		(uuid "47b11d37-d0ea-478f-b74b-a20943f5b1c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2f26d2f-0f3f-4b72-8221-b9bf475854a8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Momentary Switch, single pole double throw"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12e1c601-a6ee-47c3-bedc-48cd76ea54f1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -7 -2.499999) (xy 8 -2.5) (xy 8 4.72) (xy -6.999999 4.72)
+		)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "029f8ae8-d72f-4b8b-bd9e-88789cbe3a70")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -3.899999 180)
+		(layer "F.Fab")
+		(uuid "57468895-37ae-49cb-94e1-f1a316150e1b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at -2.5 0)
+		(size 2.5 4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2513e382-93f8-4461-9535-d8a768fd4ee3")
+	)
+	(pad "2" thru_hole oval
+		(at 0.499999 0)
+		(size 2.5 4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1132e399-4a51-4e65-8f0f-15f1bf085b2b")
+	)
+	(pad "3" thru_hole oval
+		(at 3.5 0)
+		(size 2.5 4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "da3aa421-bf68-4a5f-91b7-1fefd4938170")
+	)
+	(pad "4" thru_hole oval
+		(at -5.5 0)
+		(size 2.5 4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "02c68588-7944-4d96-98e9-c20e96c06dd6")
+	)
+	(pad "4" thru_hole oval
+		(at 6.5 0)
+		(size 2.5 4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "adec1c6e-c50c-4f6c-9508-4c70675a4a28")
+	)
+	(embedded_fonts no)
+	(model "${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-3100P-B.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

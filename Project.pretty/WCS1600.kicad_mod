@@ -1,0 +1,400 @@
+(footprint "WCS1600"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Inductor, Axial series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*4mm^2, Fastron, SMCC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_SMCC_NEU.pdf, http://cdn-reichelt.de/documents/datenblatt/B400/LEADEDINDUCTORS.pdf")
+	(tags "Inductor Axial series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 4mm Fastron SMCC")
+	(property "Reference" "U3"
+		(at 2.54 -3.12 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6dbf102e-6124-4047-a18d-7c36c50a92c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "WCS1600"
+		(at -3.901942 7.289061 180)
+		(layer "F.Fab")
+		(uuid "a0330b50-acab-4a82-8a7b-e402b47e0185")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.winson.com.tw/uploads/images/WCS1600.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97d08b06-8487-4f4b-9feb-7dd2eee1f69f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Hall Effect Base Linear Current Sensor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "71de6dfa-e38d-496a-a806-9a5821bdff60")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "19.4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e67db34-7aed-4de2-866d-461da86f7e97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Winson"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e3e3850-2af2-4ba9-8f80-c857e0bec618")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "WCS1600"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b713881-5b15-4855-9983-11cab2250140")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f71a4b6-9393-40ba-9822-db9811d6cb85")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6edb296-528e-43fa-9ec8-f50824986c20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c946df21-f24a-49a2-91e4-56248a3cee49")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a2aef44-e5d2-45d9-b8cb-a34daf3d29d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -7.65 4)
+		(end -7.64 -4.59)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "99a44ef5-f422-49b8-8c96-a4f53b7cd876")
+	)
+	(fp_line
+		(start -7.64 -4.59)
+		(end 11.83 -4.58)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cb01f79d-55db-4ce3-80e7-0b77e86cabe5")
+	)
+	(fp_line
+		(start 2.05 4.47)
+		(end 2.05 4.47)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c345cd6-128c-49cc-9e1a-162f31b2b846")
+	)
+	(fp_line
+		(start 2.05 4.57)
+		(end 2.05 4.57)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b2feb0e2-91a4-4977-a074-53bef9979a01")
+	)
+	(fp_line
+		(start 11.75 4)
+		(end -7.65 4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "83fa55b8-f8f7-45d7-932c-1ec03930f40c")
+	)
+	(fp_line
+		(start 11.83 -4.58)
+		(end 11.849999 4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "86ec143d-b110-4e67-be4e-e7dca076b650")
+	)
+	(fp_arc
+		(start 2.05 4.47)
+		(mid 2.100001 4.52)
+		(end 2.05 4.57)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f15b3f4-d39e-411b-90e4-bc7f5631fd67")
+	)
+	(fp_arc
+		(start 2.05 4.57)
+		(mid 2.000001 4.52)
+		(end 2.05 4.47)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "641b2202-6e87-4fc8-85f2-8b2adade176a")
+	)
+	(fp_line
+		(start -8.65 -5)
+		(end 12.75 -4.999999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "f13d1a83-b086-4ce2-9990-7febdf8b6279")
+	)
+	(fp_line
+		(start -8.65 5)
+		(end -8.65 -5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3d8e89d5-837d-4a6d-9ac8-642644469baa")
+	)
+	(fp_line
+		(start -7.65 4)
+		(end -7.65 -4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "34a8a172-03d5-4b16-9470-62d057f55882")
+	)
+	(fp_line
+		(start -7.57 -4.58)
+		(end 11.83 -4.58)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "d44b9fa1-f304-4697-abd2-8d1d38235bed")
+	)
+	(fp_line
+		(start 11.75 -4)
+		(end 11.75 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6bdd1220-2ed8-49aa-9518-773f49244015")
+	)
+	(fp_line
+		(start 11.75 4)
+		(end -7.65 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "95f6d8a7-07fc-487e-abee-b8041966827e")
+	)
+	(fp_line
+		(start 12.75 -4.999999)
+		(end 12.75 4.999999)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a525894a-f481-4b46-993d-a2dc3c79255a")
+	)
+	(fp_line
+		(start 12.75 4.999999)
+		(end -8.65 5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7c276b6f-b11a-41ca-87b4-619cfe054687")
+	)
+	(fp_rect
+		(start -8.5 -5)
+		(end 12 4.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "B.CrtYd")
+		(uuid "3ba4294d-53fe-4dd3-8899-6c35fd66011a")
+	)
+	(fp_rect
+		(start -8.5 -5)
+		(end 12 4.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "99c62a1d-4018-4c43-9356-464ac317585c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.54 -3.12 180)
+		(layer "F.Fab")
+		(uuid "f5ef7042-6d25-4714-a704-381ee0601a5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 2.05 2.54 90)
+		(size 1.8 3)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "deddb317-06dc-4472-b9c7-60e28f6ab1ca")
+	)
+	(pad "2" thru_hole oval
+		(at 2.04 -0.01 90)
+		(size 1.8 3)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "c3667758-4d63-44ad-b43f-5164cc9cd4d0")
+	)
+	(pad "3" thru_hole oval
+		(at 2.04 -2.63 90)
+		(size 1.8 3)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "d27c1744-b3d0-422a-a101-3b9e6f0ad73f")
+	)
+	(pad "MH1" thru_hole circle
+		(at -4.42 -0.359999)
+		(size 6 6)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "7c16f834-f9a2-4a73-b238-c0a0f0cbcd86")
+	)
+	(pad "MH2" thru_hole circle
+		(at 8.640001 -0.29)
+		(size 6 6)
+		(drill 0.6)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "1a967555-bc36-4e95-9d79-dcf37ec65a69")
+	)
+	(embedded_fonts no)
+	(model "${KICAD8_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC.wrl"
+		(opacity 0.0000)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

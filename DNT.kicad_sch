@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 (kicad_sch
 	(version 20250114)
 	(generator "eeschema")
@@ -9486,6 +9487,8 @@
 	(embedded_fonts no)
 )
 =======
+=======
+>>>>>>> 9de3420 (Updated DNT)
 (kicad_sch
 	(version 20250114)
 	(generator "eeschema")
@@ -18530,7 +18533,11 @@
 				(hide yes)
 			)
 		)
+<<<<<<< HEAD
 		(property "Footprint" "Project:SW_SPST_B3U-3100P-B"
+=======
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
+>>>>>>> 9de3420 (Updated DNT)
 			(at 139.7 132.08 0)
 			(effects
 				(font
@@ -18972,4 +18979,7 @@
 	)
 	(embedded_fonts no)
 )
+<<<<<<< HEAD
 >>>>>>> d6be5e6 (~Updated DNT file)
+=======
+>>>>>>> 9de3420 (Updated DNT)

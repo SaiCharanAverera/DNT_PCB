@@ -70,10 +70,13 @@
         [
           "silk_overlap|99406349|112963583|48440a18-c209-494c-8d9d-7255b7ddc6e7|b1deacfa-e805-41a2-97e7-ce234f876f05",
           ""
+<<<<<<< HEAD
         ],
         [
           "unconnected_items|114312381|88474976|b6c37435-8cf8-495e-9621-07ad41ffaf3e|b42d6478-1cf5-48ce-95e3-cf3bf24886bd",
           ""
+=======
+>>>>>>> 9de3420 (Updated DNT)
         ]
       ],
       "meta": {
@@ -469,7 +472,11 @@
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
+<<<<<<< HEAD
       "simulation_model_issue": "warning",
+=======
+      "simulation_model_issue": "ignore",
+>>>>>>> 9de3420 (Updated DNT)
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",

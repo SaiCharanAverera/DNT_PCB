@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ** Drc report for DNT.kicad_pcb **
 ** Created on 2026-01-09T22:26:40+0530 **
 
@@ -14,6 +15,8 @@
 
 ** End of Report **
 =======
+=======
+>>>>>>> 9de3420 (Updated DNT)
 ** Drc report for DNT.kicad_pcb **
 ** Created on 2026-01-09T22:26:40+0530 **
 
@@ -28,4 +31,7 @@
 ** Found 0 Footprint errors **
 
 ** End of Report **
+<<<<<<< HEAD
 >>>>>>> d6be5e6 (~Updated DNT file)
+=======
+>>>>>>> 9de3420 (Updated DNT)
